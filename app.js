@@ -132,7 +132,7 @@ function redirectSmart() {
     // Guardamos para usarlo después
     localStorage.setItem("firstMessage", message);
 
-    window.location.href = "https://instagram.com/tu_usuario";
+    window.location.href = "https://instagram.com/julianj.80";
 }
 
 // =============================
