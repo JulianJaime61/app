@@ -170,7 +170,7 @@ function goFinal() {
 // Redirección
 function redirectToIG() {
     // ⚠️ CAMBIA ESTO POR TU USUARIO REAL
-    const username = "tu_usuario";
+    const username = "julianj.80";
 
     window.location.href = `https://instagram.com/${username}`;
 }
